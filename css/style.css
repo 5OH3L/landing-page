@@ -181,7 +181,7 @@ div.first-main-left h1{
 
 /* Extra Animations */
 
-.sign-up:hover,.sign-up-2{
+.sign-up,.sign-up-2{
     transition: all ease 0.5s;
 }
 
